@@ -30,8 +30,7 @@ Harsh right?
 
 ## Stepping out the door
 
-- [ ] ☁️ 0 > ✍️ SEC01-AWS100 [My Day Article](Journey/001-My-First-Day.md)
-- [ ] ☁️ 1 >
+- [ ] ☁️ 1 > [My first day](Journey/001-My-first-day.md)
 - [ ] ☁️ 2 >
 - [ ] ☁️ 3 >
 - [ ] ☁️ 4 >
