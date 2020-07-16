@@ -10,20 +10,23 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## Sammy Jose's Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+I'm a stay at home mom to 3 children.
+I was working part time as a school custodian.
+I was let go because of COVID.
+Now I am a ☁️ Cloud Developer Advocate for my twin brother [Andrew Brown](https://twitter.com/andrewbrown)
 
-[✍️ Introduce yourself]
+I started this challenge because Andrew told me I had to lol 😂.
+I'm doing the challenge so I can show other people who are non technical how to do the challenge as well.
 
-[✍️ Tell us why you started this challenge]
+I want to have a better understanding of Cloud by the end of this challenge.
+I want to earn my #100DaysOfCloud sticker for my laptop.
+Andrew won't mail me a sticker unless I do all my 100 days.
+Harsh right?
 
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter]
-- [✍️ Link to your LinkedIn]
+- [@sammy5_j](https://twitter.com/sammy5_j)
+- [/in/sammyjose](https://www.linkedin.com/in/sammyjose)
 
 ## Stepping out the door
 
