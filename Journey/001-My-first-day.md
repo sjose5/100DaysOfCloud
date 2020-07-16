@@ -4,7 +4,7 @@
 
 ## Cloud Research
 
-- ✍️ I am creating a IAM user today.
+I am creating a IAM user today.
 I had to setup a new AWS root user because I closed my old one after doing my hands on learning for CCP.
 Once I got in, I typed in IAM user and it showed me my IAM user sign-in link and the 12 numbers I needed.
 Which I remember learning from ExamPro's CCP Course when I did the hands on.
@@ -48,14 +48,6 @@ Then it gives me a bunch of options and I select most of them.
 I save changes and I'm DONE!!
 
 
-
-
-
-
-
-
-
-Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
 
 ## Social Proof
 
