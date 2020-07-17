@@ -1,6 +1,6 @@
 <!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# Creating a IAM User, enabling MFA for root account and adding IAM password policy
+# Creating a IAM User, Enabling MFA for Root Account and Adding IAM Password Policy
 
 ## Cloud Research
 
