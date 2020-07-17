@@ -30,7 +30,7 @@ Harsh right?
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001-My-First-Day.md)
+- [ ] ☁️ 1 > [My first day](Journey/001-My-first-day.md)
 - [ ] ☁️ 2 >
 - [ ] ☁️ 3 >
 - [ ] ☁️ 4 >
