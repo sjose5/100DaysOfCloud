@@ -1,8 +1,6 @@
 <!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# Creating an IAM User, Enabling MFA for Root Account and Adding IAM Password Policy
-
-## Cloud Research
+# How to Create an IAM User, Enable MFA for Root Account and Add IAM Password Policy
 
 # Create IAM User
 
@@ -29,7 +27,7 @@
 * I create user.
 * Yay I did it 👏
 
-# Enable MFA foor root user
+# Enable MFA for Root User
 
 * Now I need to enable MFA for root user.
 * I go to IAM Managament Console.
@@ -46,7 +44,7 @@
 * So I successfully assigned virtual MFA 👊
 
 
-# Apply IAM password Policy that follows securitys best practices
+# Apply IAM Password Policy that Follows Securitys Best Practices
 
 * Now I need to apply an IAM password policy that follows security best practices.
 * I go back to IAM Managment Console and click on Apply an IAM password policy and click manage password policy.
