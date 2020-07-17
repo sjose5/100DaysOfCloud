@@ -30,7 +30,7 @@ Harsh right?
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My first day](Journey/001-My-first-day.md)
+- [ ] ☁️ 1 > [How to Create an IAM User, Enable MFA for Root Account & Add IAM Passowrd Policy](Journey/001-My-first-day.md)
 - [ ] ☁️ 2 >
 - [ ] ☁️ 3 >
 - [ ] ☁️ 4 >
