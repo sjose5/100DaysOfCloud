@@ -12,7 +12,7 @@
 * Then I signed out of my root user.
 * I clicked on IAM Account and I pasted the 12 numbers in the login. 
 * Then it brought me to sign-in to IAM user, so I pasted the 12 numbers in again and created a user name and password and it didn't work.
-* I got annoyed 😡... now I am confused😫.
+* I got annoyed 😡... now I am confused😫
 * It was showing my old email in the IAM user with the account I closed.
 * No clue what's going on. I must have mixed up what I have learned?
 * I logged back into my root account to see what I could figure out and typed in IAM.
