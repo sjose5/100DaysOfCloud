@@ -1,8 +1,10 @@
 <!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# My first day
+# Creating a IAM User, enabling MFA for root account and adding IAM password policy
 
 ## Cloud Research
+
+# Create IAM User
 
 * I am creating a IAM user today.
 * I had to setup a new AWS root user because I closed my old one after doing my hands on learning for CCP.
@@ -19,13 +21,16 @@
 * I clicked on create individual IAM users thinking this sounds right.
 * I clicked Manage Users.
 * I clicked Add Users.
-* I created a User Name called LordHelpMe
+* I created a User Name 
 * I see there is a option to click AWS Management Console Access!
-* That is what I am supposed to be doing! I'm excited I think I'm almost done 😄.
+* That is what I'm supposed to be doing! 😄
 * I create a password, it asks me if I want to create a group
 * I create a group called Admins and I gave it AdministratorAccess
 * I create user.
 * Yay I did it 👏
+
+# Enable MFA foor root user
+
 * Now I need to enable MFA for root user.
 * I go to IAM Managament Console.
 * I click on Activate MFA on your root account.
@@ -39,8 +44,10 @@
 * I enter in the codes and its saying invalid MFA? So I do it again and says the same thing..
 * I remove what I scaned and just start over and scan the bar code and enter in the numbers and it works!
 * So I successfully assigned virtual MFA 👊
-* Im feeling really good about myself!
-* Can't wait to tell my brother I did it!!😊
+
+
+# Apply IAM password Policy that follows securitys best practices
+
 * Now I need to apply an IAM password policy that follows security best practices.
 * I go back to IAM Managment Console and click on Apply an IAM password policy and click manage password policy.
 * I click set password policy
