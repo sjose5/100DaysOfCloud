@@ -53,9 +53,6 @@
 * I save changes and I'm DONE!!
 
 
+https://twitter.com/sammy5_j/status/1284110246194094083
 
-## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
