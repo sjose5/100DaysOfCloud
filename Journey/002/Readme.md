@@ -9,7 +9,7 @@
 
 ## Prerequisite:
 
-**To be honest I'm not sure what base knowledge you need for DynamoDB, defintly Certified Cloud Practitioner.
+**To be honest I'm not sure what base knowledge you need for DynamoDB, definitely Certified Cloud Practitioner.**
 
 ## Cloud Research:
 
