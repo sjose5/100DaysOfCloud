@@ -31,7 +31,7 @@ Harsh right?
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [How to Create an IAM User, Enable MFA for Root Account & Add IAM Passowrd Policy](Journey/001-My-first-day.md)
-- [ ] ☁️ 2 > [Create a DynamoDB Table](Journey/002-Create-a-DynamoDB-Table.md)
+- [ ] ☁️ 2 > [Create a DynamoDB Table](Journey/002/Readme.md)
 - [ ] ☁️ 3 >
 - [ ] ☁️ 4 >
 - [ ] ☁️ 5 >
