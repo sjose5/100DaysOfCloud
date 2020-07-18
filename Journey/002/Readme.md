@@ -5,40 +5,40 @@
 
 ## Create DynamoDB Table with Provisioned Capacity
 
-**1. Click Create Table**
+**Click Create Table**
 
 ![](1-Click-Create-Table.png)
 
-**2. Name Table and Partition Key then Select Create**
+**Name Table and Partition Key then Select Create**
 
 ![](2-Name-table-and-hit-Create.png)
 
-**3. Click on Capacity Tab, Select Provisioned (free tier eligible) and Click Save**
+**Click on Capacity Tab, Select Provisioned (free tier eligible) and Click Save**
 
 ![](3-provisioned.png)
 
 
-## Create 3 Random Items in The Table
+## Create 3 Random Items in the table
 
-**4. Click on Items Tab and Create item**
+**Click on Items Tab and Create item**
 
 ![](4.png)
 
-**5. Enter in your Item Info and Click Save, Do this 2 more times**
+**Enter in your Item Info and Click Save, Do this 2 more times**
 
 ![](5.png)
 
 ## Run a scan on the table that returns all 3 items
 
-**Not really sure what I’m doing so I’m going to watch some videos on youtube**
+**(Not really sure what I’m doing so I’m going to watch some videos on youtube)**
 
-**6. I scanned table but I’m lost on how to return all 3 items... So I’m going to skip this and be done for today** 🤷‍♀️ 
+**I scanned table but I’m lost on how to return all 3 items... So I’m going to skip this and be done for today** 🤷‍♀️ 
 
 ![](6.png) 
 
 ## How to Delete Table 
 
-**7. I’m going to delete my table**
+**I’m going to delete my table**
 
 **Click Delete**
 
