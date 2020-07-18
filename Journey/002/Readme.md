@@ -3,15 +3,15 @@
 
 # Create a DynamoDB
 
-Introduction:
+## Introduction:
 
-**I chose to do the DynamoDB project from 100DaysOfCloud because I would hear people talk about DynamoDB and I wanted to get a better understanding of it.
+**I chose to do the DynamoDB project from 100DaysOfCloud because I would hear people talk about DynamoDB and I wanted to get a better understanding of it.**
 
-Prerequisite:
+## Prerequisite:
 
 **To be honest I'm not sure what base knowledge you need for DynamoDB, defintly Certified Cloud Practitioner.
 
-Cloud Research:
+## Cloud Research:
 
 ## Create DynamoDB Table with Provisioned Capacity
 
