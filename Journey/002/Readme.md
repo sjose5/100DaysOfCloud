@@ -72,7 +72,7 @@
 
 ## Social Proof
 
-**! https://twitter.com/sammy5_j/status/1284537490720690176
+! https://twitter.com/sammy5_j/status/1284537490720690176
 
 
 
