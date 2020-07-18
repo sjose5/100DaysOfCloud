@@ -3,6 +3,16 @@
 
 # Create a DynamoDB
 
+Introduction:
+
+**I chose to do the DynamoDB project from 100DaysOfCloud because I would hear people talk about DynamoDB and I wanted to get a better understanding of it.
+
+Prerequisite:
+
+**To be honest I'm not sure what base knowledge you need for DynamoDB, defintly Certified Cloud Practitioner.
+
+Cloud Research:
+
 ## Create DynamoDB Table with Provisioned Capacity
 
 **Click Create Table**
@@ -52,9 +62,17 @@
 
 **Global tables is a replica of one or more replica tables all from one AWS account.**
 
+Cloud Outcome
 
+**I learned that DynamoDB is confusing and I will need to take more time to understand it, but I did learn how to make the DynamoDB with provisioned capacity and how to create items in a table.
 
-**Proof I shared it on twitter**! https://twitter.com/sammy5_j/status/1284537490720690176
+Next Steps
+
+**I'm going to checkout more of the project ideas tomorrow to see what intrests me next to learn!**
+
+Social Proof
+
+**! https://twitter.com/sammy5_j/status/1284537490720690176
 
 
 
