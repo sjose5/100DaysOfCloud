@@ -12,7 +12,7 @@
 
 ## Sammy Jose's Cloud Journey
 
-I'm a stay at home mom to 3 children.
+I'm a stay-at-home mom to 3 children.
 I was working part time as a school custodian.
 I was let go because of COVID.
 Now I am a ☁️ Cloud Developer Advocate for my twin brother [Andrew Brown](https://twitter.com/andrewbrown)
