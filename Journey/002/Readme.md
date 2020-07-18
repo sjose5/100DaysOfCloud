@@ -53,7 +53,7 @@
 **Global tables is a replica of one or more replica tables all from one AWS account.**
 
 
-https://twitter.com/sammy5_j/status/1284537490720690176
+Proof I shared it on twitter! https://twitter.com/sammy5_j/status/1284537490720690176
 
 
 
