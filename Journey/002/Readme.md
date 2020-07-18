@@ -62,15 +62,15 @@
 
 **Global tables is a replica of one or more replica tables all from one AWS account.**
 
-Cloud Outcome
+## Cloud Outcome
 
-**I learned that DynamoDB is confusing and I will need to take more time to understand it, but I did learn how to make the DynamoDB with provisioned capacity and how to create items in a table.
+**I learned that DynamoDB is confusing and I will need to take more time to understand it, but I did learn how to make the DynamoDB with provisioned capacity and how to create items in a table.**
 
-Next Steps
+## Next Steps
 
 **I'm going to checkout more of the project ideas tomorrow to see what intrests me next to learn!**
 
-Social Proof
+## Social Proof
 
 **! https://twitter.com/sammy5_j/status/1284537490720690176
 
