@@ -15,6 +15,8 @@
 
 3 -  Click on Capacity Tab and select Provisioned (free tier eligible) and click save
 
+![](3-provisioned.png)
+
 Create 3 random items in the table
 
 4 - Click on Items Tab and Create item
