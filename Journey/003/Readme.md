@@ -23,7 +23,7 @@ Really not sure what knowledge you need for this possibly Certified Cloud Practi
 
 ![](https://github.com/sjose5/100DaysOfCloud/blob/main/Step%203.png)
 
-### Step 4 - Click create an alarm
+### Step 4 - Click Create an Alarm
 
 ![](https://github.com/sjose5/100DaysOfCloud/blob/main/Step%204%20.png)
 
