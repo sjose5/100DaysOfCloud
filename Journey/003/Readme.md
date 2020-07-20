@@ -1,56 +1,64 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+
+# How to create a billing alarm
 
 ## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I chose thise topic because I thought it would be easy.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Really not sure what knowledge you need for this possibly Certified CLoud Practitioner.
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
+### Step 1 — Log into your root acocunt and click on your profile name and click on My Billing Dashboard
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 2 — On the left hand side click on Billing prefrences
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 3 — Summary of Step
+### Step 3 — Select free tier usuage alert and select receieve billing alerts then click on 
 
-![Screenshot](https://via.placeholder.com/500x300)
+
+
+### Step 4 - Click create an alarm
+
+
+### Step 5 - In the conditions section Enter in 5 in define the threshold value
+
+
+### Step 6 - Select create new topic, enter in a topic name and an email and click create topic
+
+
+### Step 7 - Click view in SNS console
+
+
+### Step 8 - Go to your email and confirm the topic
+
+
+### Step 9- Name Alarm Name and Alarm Description and select next
+
+
+### Step 10 - Scroll down and select create alarm
+
+
+
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+I got stuck looking for billing alarm. Thought maybee billing alarm was the same as creating a budget but it's not.  When it would ask to select metrics I was lost. In the end I learned how to make a $5  budget.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Not sure what I want to do next, I will select a new project tomorrow.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
 [link](link)
-s
-x
-b
-x
+
