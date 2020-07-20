@@ -62,7 +62,6 @@ Not sure what I want to do next, I will select a new project tomorrow.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+https://twitter.com/sammy5_j/status/1285220530774085637
 
-[link](link)
 
