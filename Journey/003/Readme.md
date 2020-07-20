@@ -1,6 +1,6 @@
 
 
-# How to create a Billing Alarm
+# How to Create a Billing Alarm
 
 ## Introduction
 I chose this topic because I thought it would be easy.
