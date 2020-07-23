@@ -1,49 +1,51 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
 
-## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+## What is Lambda?
 
-## Prerequisite
+## Introduction 
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Today I chose my own idea and am doing a micro project. I chose What is Lambda because I keep hearing about Lambda and wanted to learn more about it.
 
-## Use Case
+## So what is AWS Lambda? 
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+AWS Lambda lets you run code without provisioning or managing servers. You can start and stop the server when needed. Lambda is a serverless function, you pay only for the computer time that you consume and there is no charge when your server isn’t running. 
 
-## Cloud Research
+AWS Lambda runs your back end code, such as object uploads, Amazon S3 buckets, updates to DynamoDB, Tables, Data in Amazon Kinesis streams, or in app activity. 
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+## What is AWS Lambda is compatible with?
 
-## Try yourself
+Ruby
+Python
+Java
+Go
+Powershell
+NodeJs
+C#
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+If you want to use another program you can use your own custom runtime that isn't AWS supported you just won’t have support from AWS.
 
-### Step 1 — Summary of Step
+## Lambda Costs?
 
-![Screenshot](https://via.placeholder.com/500x300)
+Now this is one of the best things in my opinion about using Lambda because who doesn’t like affordable things? 
+The first 1 million requests per month are free, once you exceed 1 million it’s $0.020 per additional request and you get 400,000GB seconds free per month. After that it costs $0.000066667 for every GB second. This price will vary on the amount of memory you use.
 
-### Step 1 — Summary of Step
+## Why would you want to use Lambda?
 
-![Screenshot](https://via.placeholder.com/500x300)
+You would want use Lambda because it is hassel free and cheap.
 
-### Step 3 — Summary of Step
+## What is the most confusing thing about Lambda?
 
-![Screenshot](https://via.placeholder.com/500x300)
+The most confusing thing about Lambda is it’s for people who code, so if you don’t know how to code.. well you won’t be able to use it.
+
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+I learned about what Lambda is and why people use it.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+I may show how to use Lambda in my next project. 
 
 ## Social Proof
 
