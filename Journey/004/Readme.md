@@ -13,7 +13,7 @@ AWS Lambda lets you run code without provisioning or managing servers. You can s
 
 AWS Lambda runs your back end code, such as object uploads, Amazon S3 buckets, updates to DynamoDB, Tables, Data in Amazon Kinesis streams, or in app activity. 
 
-## What is AWS Lambda is compatible with?
+## What is AWS Lambda compatible with?
 
 Ruby
 Python
@@ -39,7 +39,7 @@ You would want use Lambda because it is hassel free and cheap.
 The most confusing thing about Lambda is it’s for people who code, so if you don’t know how to code.. well you won’t be able to use it.
 
 
-## ☁️ Cloud Outcome
+## Cloud Outcome
 
 I learned about what Lambda is and why people use it.
 
@@ -49,7 +49,4 @@ I may show how to use Lambda in my next project.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
-f
