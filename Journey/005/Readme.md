@@ -10,7 +10,7 @@ EC2 stands for Elastic Compute Cloud and it's a highly configurable server. EC2 
 
 ## What is a VM?  
 
-VM stands for Virutal Machine and it's a computer file usually called an image that acts like a computer. So, its a computer within a computer. You are able to create, copy, resize or migrate your server. You can run multiple VM's on a server to share cost with outher customers.
+VM stands for Virutal Machine and it's a computer file usually called an image that acts like a computer. So, its a computer within a computer. You are able to create, copy, resize or migrate your server. You can run multiple VM's on a server to share cost with other customers.
 
 ## What is an Instance?
 
