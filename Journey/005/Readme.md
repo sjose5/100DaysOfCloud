@@ -30,8 +30,7 @@ AMI stands for Amazon Machine Image.  So when using EC2 you can choose AMI optio
 ## So basically everything in AWS is using EC2 under the hood. 
 
 
-
 ## Social Proof
 
-
+https://twitter.com/sammy5_j/status/1290620639758303233
 
