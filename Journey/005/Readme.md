@@ -1,52 +1,37 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
 
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# What is an EC2, a VM, an Instance and AMI?
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+## What is an EC2? 
 
-## Try yourself
+EC2 stands for Elastic Compute Cloud and it's a highly configurable server. EC2 allows you to launch VMs.
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+## What is a VM?  
 
-### Step 1 — Summary of Step
+VM stands for Virutal Machine and it's a computer file usually called an image that acts like a computer. So, its a computer within a computer. You are able to create, copy, resize or migrate your server. You can run multiple VM's on a server to share cost with outher customers.
 
-![Screenshot](https://via.placeholder.com/500x300)
+## What is an Instance?
 
-### Step 1 — Summary of Step
+When we launce a VM its called an Instance.
 
-![Screenshot](https://via.placeholder.com/500x300)
+## What is an AMI?
 
-### Step 3 — Summary of Step
+AMI stands for Amazon Machine Image.  So when using EC2 you can choose AMI options like:
 
-![Screenshot](https://via.placeholder.com/500x300)
+* The amout of CPU
+* The amount of Memory (RAM)
+* The amount of Network Bandiwidth
+* The Operation System
+* Attach multiple virutal HDD's for storage
 
-## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+## So basically everything in AWS is using EC2 under the hood. 
 
-## Next Steps
 
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+
