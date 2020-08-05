@@ -35,7 +35,7 @@ Harsh right?
 - [x] ☁️ 3 > [Create three Billing Alarms](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [What is Lambda?](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [What is an EC2, a VM, an Instance and an AMI? ](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [ ] ☁️ 6 > [Everything containers](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
