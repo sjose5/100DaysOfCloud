@@ -19,6 +19,4 @@ EKS stands for Elastic Kubernete Service and it is a fully managed kubernete ser
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+https://twitter.com/sammy5_j/status/1291366288275603459
