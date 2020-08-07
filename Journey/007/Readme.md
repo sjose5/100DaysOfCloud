@@ -21,6 +21,4 @@ When you run workloads on both on-prem and datacentres and VPC (Virtual Prviate 
 
 
 Social Proof
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-link
+https://twitter.com/sammy5_j/status/1291852796203905024
