@@ -1,52 +1,26 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+## Edge and Hybrid Computing Services
 
-# New post title here
+## What is Edge Computing?
 
-## Introduction
+Edge computing is when you push your computing workloads outside of your networks to run close to the destination location.  This can be withinin the device itsself or close to the device. Data is processed by its self or by local computer or service, rather then being transmitted to data centre.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+## What is Hybrid Computing?
 
-## Prerequisite
+When you run workloads on both on-prem and datacentres and VPC (Virtual Prviate Cloud)
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+## Here are the different services
 
-## Use Case
+AWS Outposts is a physical rack of services that you can put in your data centres. You can use AWS API and Servces such as EC2 in your datacaentre. 
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+AWS Wavelength allows you to build and launch your applications in a telecome data centre. You wil have minimal delay, they will be pushed over a 5GB network and be closet to the end user.
 
-## Cloud Research
+VMWare Cloud on AWS allows you to on-premise virtual machines using VMWare as EC2 instanes.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+AWS Local Zones are edge datacentres outside of an AWS Region. This is for when live in populated areas and you need a faster computing, stroage and database that are outside of an AWS Region.
 
-## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
+Social Proof
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+link
