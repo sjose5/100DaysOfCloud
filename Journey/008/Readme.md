@@ -6,3 +6,4 @@ Today I learned about all the different Storage Services, which I was already fa
 I refreshed my knwoledge on the AWS Snowball Family, AWS Backup, Cloud Endure Disaster Recovery, & Amazon FSX.
 
 ## Social Proof
+https://twitter.com/sammy5_j/status/1293189564798889991
