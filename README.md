@@ -37,7 +37,7 @@ Harsh right?
 - [ ] ☁️ 5 > [What is an EC2, a VM, an Instance and an AMI? ](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Everything containers](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [Edge and Hybrid Computing Services](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [ ] ☁️ 8 > [Storage Services](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
