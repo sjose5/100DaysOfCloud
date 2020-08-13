@@ -39,7 +39,7 @@ Harsh right?
 - [ ] ☁️ 7 > [Edge and Hybrid Computing Services](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [Storage Services](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [Virtual Private Cloud and Subnets](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 10 > [Provisioning](Journey/010/Readme.md)
 
 ## Walking down the road
 
