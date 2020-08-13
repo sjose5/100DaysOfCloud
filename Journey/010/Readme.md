@@ -6,3 +6,5 @@ Today I wanted to refresh my memory on provisioning and all the services. AWS ha
 
 
 ## Social Proof
+
+https://twitter.com/sammy5_j/status/1293890120848822273
