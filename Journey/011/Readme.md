@@ -1,52 +1,19 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+## EC2 Pricing Models
+Today I'm going to learn more about the EC2 pricing models.  So I learned there are 4 ways you can pay for EC2. There is On-Demand, Spot, Reserved and Dedicated.
 
-# New post title here
+## On-Demand 
+* Is the least commitment, no upfront payment, no long-term commitmnt, and you are charged by the hr or min.  This is good for short term use or unpredictable applications
 
-## Introduction
+## Spot 
+* AWS has unused compute capacity so they want to make money on there extra instances laying around so they give you a better price.  So thats why it's the biggest savings but there are some trade offs.  The instance can be terminated at any time if someone needs it and offers a higher price and they wont charge you if they terminate your nstance. Spot is good for applications that have start and end times or applications that are only feasable at very low costs.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+## Reserved 
+* Is best for long-term and is used for applications that have a steady state , predictable ususage, or require reserved capacity. There are 3 options in reserved there is Standard which gives ypu 75% more savings then dedicated but you cant chnage your RI.  Convetable give syou 54% savings compared to on-demand and it allows you to change your RI.  Scheduled is when you reserve instances for a specific time.
 
-## Prerequisite
+## Dedicated 
+* Is the most expensive.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
+Social Proof
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+link
