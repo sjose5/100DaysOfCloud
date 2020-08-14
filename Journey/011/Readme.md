@@ -14,9 +14,9 @@ Today I'm going to learn more about the EC2 Pricing Models. So, I learned there 
 * Convertible gives you 54% savings compared to On-Demand and it allows you to change your RI.   
 * Scheduled is when you reserve instances for a specific time.
 
-## The terms for Reserved are 1 or 3 year contracts.  You save more if you have a longer term.
+### The terms for Reserved are 1 or 3 year contracts.  You save more if you have a longer term.
 
-## Payment Options are Up-front, Partial Upfront or No-Upfront
+### Payment Options are Up-front, Partial Upfront or No-Upfront
 
 ## Dedicated 
 * Is the most expensive and it's used when you have strict server bound licensing that won't support multi-tenancy like Enterpirses and large Organizations. Dedicated is used for single-tenant. When the customer has dedicated hardware and is physically isolated. It is offered as On-Demand or Reserved.
