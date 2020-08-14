@@ -22,5 +22,5 @@ Today I'm going to learn more about the EC2 Pricing Models. So, I learned there 
 * Is the most expensive and it's used when you have strict server bound licensing that won't support multi-tenancy like Enterpirses and large Organizations. Dedicated is used for single-tenant. When the customer has dedicated hardware and is physically isolated. It is offered as On-Demand or Reserved.
 
 Social Proof
-✍️ Show that you shared your process on Twitter or LinkedIn
+https://twitter.com/sammy5_j/status/1294302157043167232
 
