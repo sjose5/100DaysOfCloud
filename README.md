@@ -47,7 +47,7 @@ Harsh right?
 - [X] ☁️ 12 > [Amazon Macie](Journey/012/Readme.md)
 - [X] ☁️ 13 > [AWS Guard Duty](Journey/013/Readme.md)
 - [X] ☁️ 14 > [AWS Shield](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
+- [ ] ☁️ 15 > [AWS WAF](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
