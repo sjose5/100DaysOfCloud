@@ -50,7 +50,7 @@ Harsh right?
 - [X] ☁️ 15 > [AWS WAF](Journey/015/Readme.md)
 - [X] ☁️ 16 > [KMS](Journey/016/Readme.md)
 - [X] ☁️ 17 > [VPN](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
+- [X] ☁️ 18 > [AWS Artifact](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
