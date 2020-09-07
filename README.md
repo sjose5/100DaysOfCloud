@@ -51,7 +51,7 @@ Harsh right?
 - [X] ☁️ 16 > [KMS](Journey/016/Readme.md)
 - [X] ☁️ 17 > [VPN](Journey/017/Readme.md)
 - [X] ☁️ 18 > [AWS Artifact](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
+- [X] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
 ## Crossing the bridge
